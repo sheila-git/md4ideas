@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+
+tr {
+    border-bottom: 1px solid red;
+}
+th {
+    text-align: left;
+}
